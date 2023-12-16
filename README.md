@@ -1,4 +1,4 @@
-##  Queen Problem Solver with Multithreading
+##  NQueen Problem Solver with Multithreading
 
 This project solves the classic N Queen problem using multithreading and provides a graphical user interface (GUI) to visualize the exploration of the solution space. The N Queen problem involves placing N chess queens on an N×N chessboard in such a way that no two queens attack each other.
 
